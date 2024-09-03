@@ -1,0 +1,177 @@
+.tahoma {
+  font-family: tahoma;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.biggest {
+  font-family: arial;
+  margin-top: 0px;
+  margin-bottom: 3px;
+  font-size: 17px;
+}
+
+.sales {
+  cursor: pointer;
+  margin-top: 0px;
+  font-size: 12px;
+  font-style: italic;
+  color: red;
+  margin-bottom: 50px;
+  font-family: arial;
+}
+
+.html {
+  font-family: verdana;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 3px;
+}
+
+.beginner {
+  font-family: verdana;
+  margin-top: 0px;
+  font-size: 12px;
+  color: gray;
+  margin-bottom: 20px;
+}
+
+.developer {
+  font-family: verdana;
+  width: 300px;
+  margin-bottom: 0px;
+}
+
+.getstarted-button {
+  font-family: verdana;
+  background-color: green;
+  color: white;
+  border: none;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-radius: 5px;
+  margin-top: 0px;
+  font-size: 10px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-bottom: 50px;
+  cursor: pointer;
+}
+
+.business {
+  font-family: arial;
+  margin-top: 0px;
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.apple-work {
+  font-family: arial;
+  text-align: center;
+  font-size: 15px;
+}
+
+.learn-more {
+  color: blue;
+  font-family: arial;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.new {
+  font-family: arial;
+  color: red;
+  text-align: center;
+  font-size: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.macbook {
+  font-family: arial;
+  font-size: 15px;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.supercharged {
+  font-family: arial;
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 0px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.from1999 {
+  font-family: arial;
+  font-size: 13px;
+  text-align: center;
+  margin-top: 0px;
+}
+
+.buy-button {
+  font-family: arial;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-right: 12px;
+  padding-left: 12px;
+  margin-left: 230px;
+  margin-bottom: 50px;
+}
+
+.dollar {
+  font-family: arial;
+  font-size: 20px;
+}
+
+.USD {
+  font-family: arial;
+  color: gray;
+}
+
+.forecast {
+  font-family: arial;
+  color: green;
+}
+
+.after-hours {
+  color: gray;
+  font-family: arial;
+}
+
+.numbers {
+  color: red;
+  font-family: arial;
+}
+
+.freecode {
+  font-family: arial;
+  font-weight: bold;
+}
+
+.free-code {
+  font-family: arial;
+  color: gray;
+}
+
+.web-developer {
+  font-family: arial;
+  margin-bottom: 50px;
+}
+
+.CHP {
+  color: rgb(55, 167, 246);
+  font-family: arial;
+}
+
+.div-button {
+  background-color:;
+}
